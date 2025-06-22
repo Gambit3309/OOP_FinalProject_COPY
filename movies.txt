@@ -1,0 +1,450 @@
+-------Movie Details-------
+Title           : Sova the archer
+Rating          : 4
+Release Date    : 01/01/2023
+Genre           : Animation
+Animation Style : 1
+Musical         : Yes
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : ALIATHE GOAT
+Rating          : 6
+Release Date    : 21/02/2024
+Genre           : Action
+Violence Level  : D
+Stunts          : Yes
+Fight Scenes    : 6
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Galactic Odyssey
+Rating          : 9
+Release Date    : 15/05/2025
+Genre           : Scifi
+Tech Level      : 2
+Aliens          : Yes
+Future Year     : 3050
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : The Whispering Woods
+Rating          : 7
+Release Date    : 10/03/2024
+Genre           : Animation
+Animation Style : 2
+Musical         : No
+Age Group       : 7
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Crimson Blade
+Rating          : 8
+Release Date    : 05/07/2023
+Genre           : Action
+Violence Level  : M
+Stunts          : Yes
+Fight Scenes    : 8
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Starfall Chronicles
+Rating          : 7
+Release Date    : 20/11/2024
+Genre           : Scifi
+Tech Level      : 3
+Aliens          : Yes
+Future Year     : 2500
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Pixie Dust Palace
+Rating          : 5
+Release Date    : 01/04/2023
+Genre           : Animation
+Animation Style : 3
+Musical         : Yes
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Rogue Protocol
+Rating          : 9
+Release Date    : 12/09/2025
+Genre           : Action
+Violence Level  : U
+Stunts          : Yes
+Fight Scenes    : 9
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Quantum Leap
+Rating          : 8
+Release Date    : 03/02/2024
+Genre           : Scifi
+Tech Level      : 1
+Aliens          : No
+Future Year     : 2077
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : The Dragon's Lullaby
+Rating          : 6
+Release Date    : 25/06/2023
+Genre           : Animation
+Animation Style : 1
+Musical         : No
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Urban Legends
+Rating          : 7
+Release Date    : 18/10/2024
+Genre           : Action
+Violence Level  : D
+Stunts          : No
+Fight Scenes    : 5
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Echoes of Europa
+Rating          : 9
+Release Date    : 07/01/2026
+Genre           : Scifi
+Tech Level      : 2
+Aliens          : Yes
+Future Year     : 2300
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : The Enchanted Forest
+Rating          : 5
+Release Date    : 09/05/2023
+Genre           : Animation
+Animation Style : 2
+Musical         : Yes
+Age Group       : 7
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Bulletstorm
+Rating          : 8
+Release Date    : 02/08/2024
+Genre           : Action
+Violence Level  : M
+Stunts          : Yes
+Fight Scenes    : 7
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Cyberpunk Dreams
+Rating          : 7
+Release Date    : 14/12/2025
+Genre           : Scifi
+Tech Level      : 3
+Aliens          : No
+Future Year     : 2042
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : The Curious Critters
+Rating          : 4
+Release Date    : 20/07/2023
+Genre           : Animation
+Animation Style : 3
+Musical         : No
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Shadow Ops
+Rating          : 9
+Release Date    : 28/03/2024
+Genre           : Action
+Violence Level  : U
+Stunts          : Yes
+Fight Scenes    : 10
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Martian Chronicles
+Rating          : 6
+Release Date    : 01/06/2025
+Genre           : Scifi
+Tech Level      : 1
+Aliens          : Yes
+Future Year     : 2150
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : The Song of the Sea
+Rating          : 7
+Release Date    : 11/09/2023
+Genre           : Animation
+Animation Style : 1
+Musical         : Yes
+Age Group       : 7
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Adrenaline Rush
+Rating          : 8
+Release Date    : 23/01/2025
+Genre           : Action
+Violence Level  : D
+Stunts          : No
+Fight Scenes    : 6
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Cosmic Drifters
+Rating          : 9
+Release Date    : 04/11/2026
+Genre           : Scifi
+Tech Level      : 2
+Aliens          : Yes
+Future Year     : 4000
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Whispers in the Wind
+Rating          : 5
+Release Date    : 30/01/2024
+Genre           : Animation
+Animation Style : 2
+Musical         : No
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Street Fury
+Rating          : 7
+Release Date    : 16/04/2023
+Genre           : Action
+Violence Level  : M
+Stunts          : Yes
+Fight Scenes    : 7
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Beyond the Stars
+Rating          : 8
+Release Date    : 22/07/2025
+Genre           : Scifi
+Tech Level      : 3
+Aliens          : Yes
+Future Year     : 2700
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : The Giggling Goose
+Rating          : 4
+Release Date    : 05/10/2023
+Genre           : Animation
+Animation Style : 3
+Musical         : Yes
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Last Stand
+Rating          : 9
+Release Date    : 10/02/2024
+Genre           : Action
+Violence Level  : U
+Stunts          : Yes
+Fight Scenes    : 9
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Time Warp
+Rating          : 6
+Release Date    : 02/05/2025
+Genre           : Scifi
+Tech Level      : 1
+Aliens          : No
+Future Year     : 2099
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : The Little Explorer
+Rating          : 6
+Release Date    : 13/11/2023
+Genre           : Animation
+Animation Style : 1
+Musical         : No
+Age Group       : 7
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Code Red
+Rating          : 8
+Release Date    : 27/06/2024
+Genre           : Action
+Violence Level  : D
+Stunts          : Yes
+Fight Scenes    : 8
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : The Anomaly
+Rating          : 9
+Release Date    : 19/03/2026
+Genre           : Scifi
+Tech Level      : 2
+Aliens          : Yes
+Future Year     : 3500
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Forest Friends
+Rating          : 5
+Release Date    : 06/08/2023
+Genre           : Animation
+Animation Style : 2
+Musical         : Yes
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : High Stakes
+Rating          : 7
+Release Date    : 14/01/2025
+Genre           : Action
+Violence Level  : M
+Stunts          : Yes
+Fight Scenes    : 6
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Zero Gravity
+Rating          : 8
+Release Date    : 08/04/2025
+Genre           : Scifi
+Tech Level      : 3
+Aliens          : No
+Future Year     : 2200
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : The Dream Weaver
+Rating          : 4
+Release Date    : 21/10/2023
+Genre           : Animation
+Animation Style : 3
+Musical         : No
+Age Group       : 7
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Breakout
+Rating          : 9
+Release Date    : 03/07/2024
+Genre           : Action
+Violence Level  : U
+Stunts          : Yes
+Fight Scenes    : 10
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : The Dark Nebula
+Rating          : 7
+Release Date    : 26/12/2025
+Genre           : Scifi
+Tech Level      : 1
+Aliens          : Yes
+Future Year     : 2800
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Melody Island
+Rating          : 6
+Release Date    : 15/02/2024
+Genre           : Animation
+Animation Style : 1
+Musical         : Yes
+Age Group       : 5
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Inferno
+Rating          : 8
+Release Date    : 09/09/2023
+Genre           : Action
+Violence Level  : D
+Stunts          : No
+Fight Scenes    : 5
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Warp Speed
+Rating          : 9
+Release Date    : 11/03/2026
+Genre           : Scifi
+Tech Level      : 2
+Aliens          : Yes
+Future Year     : 3200
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : The Golden Acorn
+Rating          : 5
+Release Date    : 17/05/2023
+Genre           : Animation
+Animation Style : 2
+Musical         : No
+Age Group       : 7
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Vendetta
+Rating          : 7
+Release Date    : 29/08/2024
+Genre           : Action
+Violence Level  : M
+Stunts          : Yes
+Fight Scenes    : 7
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Starseed
+Rating          : 8
+Release Date    : 06/01/2025
+Genre           : Scifi
+Tech Level      : 3
+Aliens          : No
+Future Year     : 2400
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : The Wobbly Walrus
+Rating          : 4
+Release Date    : 24/11/2023
+Genre           : Animation
+Animation Style : 3
+Musical         : Yes
+Age Group       : 5
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Final Assault
+Rating          : 9
+Release Date    : 01/04/2024
+Genre           : Action
+Violence Level  : U
+Stunts          : Yes
+Fight Scenes    : 10
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : Lunar Colony
+Rating          : 6
+Release Date    : 13/07/2025
+Genre           : Scifi
+Tech Level      : 1
+Aliens          : Yes
+Future Year     : 2060
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Sparklehorn's Adventure
+Rating          : 6
+Release Date    : 02/02/2023
+Genre           : Animation
+Animation Style : 1
+Musical         : No
+Age Group       : 7
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : The Gauntlet
+Rating          : 8
+Release Date    : 20/09/2024
+Genre           : Action
+Violence Level  : D
+Stunts          : Yes
+Fight Scenes    : 8
+Director        : Clint Eastwood
+-------Movie Details-------
+Title           : Chronos Gate
+Rating          : 9
+Release Date    : 25/10/2025
+Genre           : Scifi
+Tech Level      : 2
+Aliens          : Yes
+Future Year     : 3100
+Director        : Steven Spielberg
+-------Movie Details-------
+Title           : The Muffin Man
+Rating          : 5
+Release Date    : 07/12/2023
+Genre           : Animation
+Animation Style : 2
+Musical         : Yes
+Age Group       : 5
+Director        : Martin Scorsese
+-------Movie Details-------
+Title           : Renegade Ops
+Rating          : 7
+Release Date    : 10/05/2024
+Genre           : Action
+Violence Level  : M
+Stunts          : No
+Fight Scenes    : 6
+Director        : Clint Eastwood

@@ -1,0 +1,3 @@
+g++ main.cpp Name.cpp MovieBaseClass.cpp SA.cpp Date.cpp Director.cpp menu.cpp scifi.cpp Animation.cpp Action.cpp global.cpp -o main
+
+g++ Test.cpp Name.cpp MovieBaseClass.cpp SA.cpp Date.cpp Director.cpp menu.cpp scifi.cpp Animation.cpp Action.cpp global.cpp -o Test

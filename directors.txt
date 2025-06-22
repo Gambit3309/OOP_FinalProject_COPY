@@ -1,0 +1,15 @@
+-----------Director 1 Details-----------
+First Name      : Steven
+Last Name       : Spielberg
+Nationality     : American
+Experience Years: 66 years
+-----------Director 2 Details-----------
+First Name      : Martin
+Last Name       : Scorsese
+Nationality     : American
+Experience Years: 58 years
+-----------Director 3 Details-----------
+First Name      : Clint
+Last Name       : Eastwood
+Nationality     : American
+Experience Years: 54 years
